@@ -1,0 +1,13 @@
+/home/oem/Hospital/Hospital.Models/obj/Debug/net8.0/Hospital.Models.csproj.AssemblyReference.cache
+/home/oem/Hospital/Hospital.Models/obj/Debug/net8.0/Hospital.Models.GeneratedMSBuildEditorConfig.editorconfig
+/home/oem/Hospital/Hospital.Models/obj/Debug/net8.0/Hospital.Models.AssemblyInfoInputs.cache
+/home/oem/Hospital/Hospital.Models/obj/Debug/net8.0/Hospital.Models.AssemblyInfo.cs
+/home/oem/Hospital/Hospital.Models/obj/Debug/net8.0/Hospital.Models.csproj.CoreCompileInputs.cache
+/home/oem/Hospital/Hospital.Models/obj/Debug/net8.0/Hospital.Models.sourcelink.json
+/home/oem/Hospital/Hospital.Models/bin/Debug/net8.0/Hospital.Models.deps.json
+/home/oem/Hospital/Hospital.Models/bin/Debug/net8.0/Hospital.Models.dll
+/home/oem/Hospital/Hospital.Models/bin/Debug/net8.0/Hospital.Models.pdb
+/home/oem/Hospital/Hospital.Models/obj/Debug/net8.0/Hospital.Models.dll
+/home/oem/Hospital/Hospital.Models/obj/Debug/net8.0/refint/Hospital.Models.dll
+/home/oem/Hospital/Hospital.Models/obj/Debug/net8.0/Hospital.Models.pdb
+/home/oem/Hospital/Hospital.Models/obj/Debug/net8.0/ref/Hospital.Models.dll

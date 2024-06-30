@@ -2,8 +2,9 @@ using System;
 using System.Linq;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+
+using Hospital.Web;
 using Hospital.Web.Data;
-using Hospital.Utilities; // Add this line to reference WebSiteRoles
 
 namespace Hospital.Utilities
 {

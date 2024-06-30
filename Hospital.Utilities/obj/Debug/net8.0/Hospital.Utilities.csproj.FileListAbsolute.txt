@@ -21,3 +21,4 @@
 /home/oem/Hospital/Hospital.Utilities/obj/Debug/net8.0/Hospital.Utilities.pdb
 /home/oem/Hospital/Hospital.Utilities/obj/Debug/net8.0/Hospital.Utilities.genruntimeconfig.cache
 /home/oem/Hospital/Hospital.Utilities/obj/Debug/net8.0/ref/Hospital.Utilities.dll
+/home/oem/Hospital/Hospital.Utilities/obj/Debug/net8.0/Hospital.Utilities.sourcelink.json
